@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3c6,50:ff85a1,100:f4c0d1&height=200&section=header&text=Valeria%20Ibarra&fontSize=52&fontColor=fff&fontAlignY=42&desc=✦%20Full%20Stack%20Developer%20✦%20Medellín%2C%20Colombia%20✦&descAlignY=62&descSize=16&descColor=ffe0ea&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3c6,50:ff85a1,100:f4c0d1&height=200&section=header&text=Valeria%20Ibarra&fontSize=52&fontColor=fff&fontAlignY=42&desc=-%20Full%20Stack%20Developer%20-%20Medellín%2C%20Colombia%20-&descAlignY=62&descSize=16&descColor=ffe0ea&animation=fadeIn"/>
 
 <br/>
 
