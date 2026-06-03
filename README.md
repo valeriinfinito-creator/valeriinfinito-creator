@@ -59,7 +59,7 @@ Docker · Nginx · GitHub Actions · GitHub · Postman · Scrum
 
 ---
 
-##  Proyectos destacados
+## Proyectos destacados
 
 <div align="center">
 <table>
@@ -68,20 +68,22 @@ Docker · Nginx · GitHub Actions · GitHub · Postman · Scrum
 
 **[Ticket API](https://github.com/valeriinfinito-creator/Ticket--Api)**
 <br>
-Gestión de tickets y solicitudes con flujos de estado, asignación y seguimiento en tiempo real.
+API REST en Laravel para gestión de tickets de soporte técnico, asignación de dispositivos y control de incidencias dentro de una organización. Incluye autenticación con Laravel Sanctum, monitoreo de errores con Sentry y notificaciones automáticas vía Discord Webhooks. Desplegada con Docker y Docker Compose.
 <br><br>
 ![Laravel](https://img.shields.io/badge/Laravel-ff85a1?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-e91e8c?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-e91e8c?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ff85a1?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%">
 
 **[DeportivoApp](https://github.com/valeriinfinito-creator/Pruebac-)**
 <br>
-Aplicación backend con autenticación, lógica de negocio e integración con base de datos.
+Sistema web para la gestión completa de un complejo deportivo: registro de usuarios, administración de espacios, control de citas y reportes estadísticos. Arquitectura por capas con envío automático de correos y vistas Razor.
 <br><br>
 ![C#](https://img.shields.io/badge/C%23-ff85a1?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-e91e8c?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-e91e8c?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff85a1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
@@ -90,7 +92,7 @@ Aplicación backend con autenticación, lógica de negocio e integración con ba
 
 **App Monolítica**
 <br>
-Aplicación full monolito con módulos en C# ASP.NET Core y Laravel — arquitectura integrada en equipo.
+Aplicación desarrollada en equipo con arquitectura monolítica, integrando módulos en C# ASP.NET Core y Laravel. Proyecto de mayor escala con lógica de negocio compleja y múltiples capas de integración.
 <br><br>
 ![C#](https://img.shields.io/badge/C%23-ff85a1?style=flat-square&logo=csharp&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-e91e8c?style=flat-square&logo=laravel&logoColor=white)
