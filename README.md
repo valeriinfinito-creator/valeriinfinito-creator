@@ -111,12 +111,12 @@ Siempre construyendo algo nuevo. ¡Vuelve pronto!
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeriinfinito-creator&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=e91e8c&icon_color=ff85a1&text_color=c2185b&count_private=false" />
+<img height="180em" src="https://readme-stats-fork-mauve.vercel.app/api?username=valeriinfinito-creator&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=e91e8c&icon_color=ff85a1&text_color=c2185b" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriinfinito-creator&layout=compact&hide_border=true&bg_color=fff0f5&title_color=e91e8c&text_color=c2185b&langs_count=6" />
+<img height="180em" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=valeriinfinito-creator&layout=compact&hide_border=true&bg_color=fff0f5&title_color=e91e8c&text_color=c2185b" />
 
 </div>
