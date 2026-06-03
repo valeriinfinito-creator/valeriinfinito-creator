@@ -20,7 +20,7 @@ Trabajo con **Docker**, **Nginx** y pipelines **CI/CD con GitHub Actions** para 
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 <div align="center">
 <table>
@@ -51,6 +51,56 @@ SQL Server · MySQL · PostgreSQL
 <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,github,postman&theme=light" />
 <br><br>
 Docker · Nginx · GitHub Actions · GitHub · Postman · Scrum
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+##  Proyectos destacados
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+**[Ticket API](https://github.com/valeriinfinito-creator/Ticket--Api)**
+<br>
+Gestión de tickets y solicitudes con flujos de estado, asignación y seguimiento en tiempo real.
+<br><br>
+![Laravel](https://img.shields.io/badge/Laravel-ff85a1?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-e91e8c?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%">
+
+**[DeportivoApp](https://github.com/valeriinfinito-creator/Pruebac-)**
+<br>
+Aplicación backend con autenticación, lógica de negocio e integración con base de datos.
+<br><br>
+![C#](https://img.shields.io/badge/C%23-ff85a1?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-e91e8c?style=flat-square&logo=dotnet&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**App Monolítica**
+<br>
+Aplicación full monolito con módulos en C# ASP.NET Core y Laravel — arquitectura integrada en equipo.
+<br><br>
+![C#](https://img.shields.io/badge/C%23-ff85a1?style=flat-square&logo=csharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-e91e8c?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+<td width="50%">
+
+**Próximamente**
+<br>
+Siempre construyendo algo nuevo. ¡Vuelve pronto!
 
 </td>
 </tr>
