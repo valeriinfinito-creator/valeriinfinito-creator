@@ -108,3 +108,17 @@ Siempre construyendo algo nuevo. ¡Vuelve pronto!
 </tr>
 </table>
 </div>
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=valeriinfinito-creator&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=e91e8c&icon_color=ff85a1&text_color=c2185b" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=valeriinfinito-creator&hide_border=true&background=fff0f5&ring=e91e8c&fire=ff85a1&currStreakLabel=c2185b&sideLabels=c2185b&dates=c2185b&sideNums=e91e8c&currStreakNum=e91e8c" />
+
+</div>
